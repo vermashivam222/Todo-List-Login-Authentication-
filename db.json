@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "shubham",
+      "name": "shubham verma",
+      "password": "12345",
+      "email": "sverma@gmail.com",
+      "phone": "1236789000",
+      "country": "india",
+      "address": "asdfg",
+      "gender": "male"
+    },
+    {
+      "id": "shubham1",
+      "name": "shubham",
+      "password": "qwert",
+      "email": "shubham@gmail.com",
+      "phone": "1234567890",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "shivam",
+      "name": "shivam verma",
+      "password": "12345",
+      "email": "sdfg@gmil.com",
+      "phone": "234567890",
+      "country": "india",
+      "address": "asxdcfgvbhjnmk",
+      "gender": "male"
+    }
+  ]
+}
