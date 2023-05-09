@@ -14,7 +14,7 @@ const Home = () => {
     return (
         <div>
             <div className="nav">    
-                <Link className="linkh"  to={'/login'}>Logout</Link>
+                <Link className="btn btn-outline-danger"  to={'/login'}>Logout</Link>
             </div>            
             <Main/>
         </div>
